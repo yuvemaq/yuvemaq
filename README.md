@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yuvemaq
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data analysis, programming, and medicine!
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on making predictive models, value generation, and writing reports/articles. 
 
 <!---
 yuvemaq/yuvemaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
