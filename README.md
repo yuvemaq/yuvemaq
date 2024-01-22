@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis, programming, and medicine!
 - 🌱 I’m currently learning JavaScript, R, and database engineering
 - 💞️ I’m looking to collaborate on making predictive models, value generation, and writing reports/articles. 
-- 🌐 Visit my personal website at https://yuvemaq.github.io/
+- 🌐 Visit my personal website at https://yuvemaq.github.io/ymk.github.io/
 
 <!---
 yuvemaq/yuvemaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
