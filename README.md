@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuvemaq
 - 👀 I’m interested in data analysis, programming, and medicine!
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, R, database engineering
 - 💞️ I’m looking to collaborate on making predictive models, value generation, and writing reports/articles. 
 - 🌐 Visit my personal website at https://yuvemaq.github.io/
 
